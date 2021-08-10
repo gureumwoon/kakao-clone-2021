@@ -1,0 +1,15 @@
+.relative {
+    position:relative;
+
+}
+
+.nav__dot{
+    display:flex;
+    right: -5px;
+    top: -10px;
+    background-color:tomato;
+    position:absolute;
+    width:6px;
+    height:6px;
+    border-radius:3px;
+}
